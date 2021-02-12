@@ -27,4 +27,5 @@ Most of the credit obviously has to go to the university it was founded at and s
 
 From the beginning this project was well organized and planned out. The founders at Carnegie Mellon did an excellent job creating a database about early modern Britain, while at the same time furthering and expanding the term of digital humanities. 
 
-![Francis Bacon Himself] (https://benjamin-dh.github.io/Ben-Thompson-/images/
+![Francis Bacon Himself] (https://benjamin-dh.github.io/Ben-Thompson-/images/francis.html)
+
