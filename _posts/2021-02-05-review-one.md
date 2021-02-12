@@ -1,4 +1,4 @@
-Project: The Six Degrees of Francis Bacon
+Project: *The Six Degrees of Francis Bacon*
 
 Project Director(s): Christopher Warren
 
@@ -6,7 +6,7 @@ Project URL: http://sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60
 
 **Review Preview**
 
-Six Degrees of Francis Bacon is a digital project created by Cristopher Warren and a team of scholars and researchers at Carnegie Mellon University.
+*Six Degrees of Francis Bacon* is a digital project created by Cristopher Warren and a team of scholars and researchers at Carnegie Mellon University.
 This site was completely redone to offer a better presentation of all works included, easy access to students and scholars all over the world, and to create one digital interactive place where works can be added, cited, and shared. This infinite-like network contains the research and social networks of early modern Britain, from 1500-1700. Francis Bacon was a lord chancellor, politician, and philosopher; as well as the main theme of the humanistic site. While this site was created mainly for this purpose of research and knowledge, it also signifies key aspects of modern digital humanities. This includes contexts of data visualization, crowdsourcing, user experience, and graphic design.
 
 **Review Design** 
@@ -27,5 +27,5 @@ Most of the credit obviously has to go to the university it was founded at and s
 
 From the beginning this project was well organized and planned out. The founders at Carnegie Mellon did an excellent job creating a database about early modern Britain, while at the same time furthering and expanding the term of digital humanities. 
 
-![Francis Bacon Himself] (https://benjamin-dh.github.io/Ben-Thompson-/images/francis.html)
+![Francis Bacon Himself](https://benjamin-dh.github.io/Ben-Thompson-/images/francis.html)
 
