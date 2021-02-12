@@ -17,7 +17,7 @@ The Six Degrees project highlights the major features of its redesign. The site 
 
 If there was ever a perfect example of digital humanities, this project site would come close. The Oxford Languages definition of Digital Humanities: “An area of scholarly activity at the intersection of computing or digital technologies and the disciplines of the humanities. It includes the systematic use of digital resources in the humanities, as well as the analysis of their application”. What could be a better example of this than the Six Degrees of Francis Bacon? The articulation was designed specifically for a one place organization where people from anywhere and anytime can interact with it. The site allows users to not only learn but to add their own knowledge to the never ending web, with Francis Bacon being the spider at the center. What makes this network so easy to use is the brackets connected to each person, literally like a spider web. The site uses specific nodes to keyword search for each detail about the person, connecting it to another one. For example, if you were researching King James the second, you would see that his node connects to the Quakers, a group of religious friends seeking righteous paths. From there on the Quakers connect to William Penn, establishing a connection that keeps on expanding throughout the interface, you get the idea. 
 
-![Francis Bacon Interface Web](https://Benjamin-DH.github.io/Ben-Thompson/images/bacon.png)
+![Francis Bacon Interface Web](https://benjamin-dh.github.io/Ben-Thompson-/images/bacon.png)
 
 **Review Credit**
 	
