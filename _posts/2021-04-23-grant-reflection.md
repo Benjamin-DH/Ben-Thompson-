@@ -1,4 +1,4 @@
-                                                                      **Reflection**
+                                                                **Reflection**
 
   The grant process has been a journey. This has definitely been one of the longest and most influential papers I have written in my college career, and its not even done yet. Picking my grant topic was not easy. Throughout the course, I became very intrigued and interested by interactive maps throughout my reviews of digital humanities projects. This made me inspired to choose my grant topic of making an interactive map of Christopher Newport University.
   
