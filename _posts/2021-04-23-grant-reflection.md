@@ -9,6 +9,8 @@ This grant proposal would be called the *Captain’s Atlas*. This interactive ma
 There are many digital humanities projects that are similar to the idea that I am proposing. For example, the university of Colorado has an interactive map of campus, just not in the 360 virtual reality. The real issue in this projects start up is money. The budget would have to be well over $1000, mostly because of the time and equipment needed to get to every inch of the campus. Still, this would be a small price to pay for such an excellent finalized product. 
 
 ![Map of CNU](https://Benjamin-DH.github.io/Ben-Thompson/images/CNUMAP.jpeg)
+![Map of CNU](https://Benjamin-DH.github.io/Ben-Thompson/images/CNUMAP.jpeg)
+
 
 Writing this grant has made me more appreciative of those I have seen and studied in class all year. There is a lot of work that goes into it that people dont normally notice. It also has allowed me to show my creativity. Even though this grant will not happen, I thoroughly enjoyed thinking about every aspect of this project and writing it down because I was allowed to, it is all according to my design, nobody else's. I also enjoyed the freedom of being able to pick the projects that we reviewed throughout the semester. This allowed me to get more invested in what I was researching and made it easier translating it to paper. 
 
